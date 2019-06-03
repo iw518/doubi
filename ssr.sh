@@ -541,7 +541,7 @@ Write_configuration(){
     "additional_ports" : {},
     "timeout": 120,
     "udp_timeout": 60,
-    "dns_ipv6": false,
+    "dns_ipv6": true,
     "connect_verbose_info": 0,
     "redirect": "",
     "fast_open": false
@@ -570,7 +570,7 @@ Write_configuration_many(){
     "additional_ports" : {},
     "timeout": 120,
     "udp_timeout": 60,
-    "dns_ipv6": false,
+    "dns_ipv6": true,
     "connect_verbose_info": 0,
     "redirect": "",
     "fast_open": false
